@@ -1,0 +1,42 @@
+.showcase {
+  background-color: rgb(255,226,231);
+}
+
+#navcol-2 {
+  font-size: x-large;
+  font-weight: 100;
+}
+
+.fa.fa-search {
+  padding: 12px;
+}
+
+.fa.fa-heart {
+  padding: 12px;
+}
+
+.fa.fa-user {
+  padding: 12px;
+}
+
+.fa.fa-gift {
+  padding: 12px;
+}
+
+.navbar-light .navbar-brand, .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+  font-weight: 800;
+  font-size: xx-large;
+}
+
+.fa.fa-sun-o {
+  padding: 7px;
+  font-size: xx-large;
+}
+
+@media (min-width:768px) {
+  header.masthead {
+    padding-top: 12rem;
+    padding-bottom: 31rem;
+  }
+}
+
